@@ -1,0 +1,10 @@
+Hi, Mr. Ahmed Mohammed and welcome to your project task for today, Tuesday 17th March, 2020 
+
+A Technical assessment has been prepared for you, it comprises of a few questions.
+
+You will be required to answers to the questions and also write code to illustrate your answers.
+
+Make sure to pull from the git hub repository. 
+
+
+Good Luck.

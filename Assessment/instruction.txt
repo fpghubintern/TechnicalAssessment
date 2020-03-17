@@ -1,0 +1,19 @@
+REACT ASSESSMENT
+
+1. What is a stateless React Component ?
+
+2. What is the difference between a Class Component and a Functional Component ?
+
+3. Can a React class component be stateless ? 
+	
+   If yes, write a stateless react Class Component.
+
+4. Can a React functional component be stateful / have state ?
+
+   If yes, write a stateful React functional component.
+
+GIT
+
+1. How do you create a git repository locally ? 
+
+2. How do you push your locally created git repository to GITHUB 
