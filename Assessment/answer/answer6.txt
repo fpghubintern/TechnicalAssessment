@@ -1,0 +1,3 @@
+the file created on the local repository can be moved to remote github using
+
+git push -u origin master, and note a github account must have been created

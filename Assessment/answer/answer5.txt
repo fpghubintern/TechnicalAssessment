@@ -1,0 +1,14 @@
+a local git repository is created basically to track changes in file, the following way shows how a local git repository will be created.
+
+1) move into the file that is meant to be staged with "cd 'file-name' "
+2) initialize git in the current folder with "git init"
+3) git status shows the structure of the files that are yet to be added      to the staging area.
+
+4) using "git add ."  or "git add 'name of file to be added'" adds the file to the staging area
+
+5) "git commit -m 'message'" moves the file finally to the local repository where is can be fectch anytime when user wishes to get back the data using " git checkout 'name of file' "
+
+	 Note: there are three areas while working with git
+  i)the working area: this is the current area where the file you working   on is currently living.
+  ii) the staging area: the file move to the staging area from the working area using git add
+  iii)the local repository: the file is moved to te staging area to the local repository using the the git commit

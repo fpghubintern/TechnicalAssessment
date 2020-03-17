@@ -1,0 +1,2 @@
+stateless react component are component that do not have states in them, they do not manage state, they can be either a class baseed component or a fuctional component but the idea is that they do not have state in them.
+

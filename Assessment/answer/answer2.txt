@@ -1,0 +1,3 @@
+a class component handles state, while a functional component do not handle state, functional component are always stateless.and so far functional component do not handle state, the react {Component} is not been extended there. functional compoenents often receive props from class based component.
+
+note:: this is not in terms of react hooks. react hooks allows fuctional component to be stateful

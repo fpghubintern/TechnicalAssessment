@@ -1,0 +1,1 @@
+yes a react class based component can be stateless... the file name "question 3" in the react app shows how a class based component can be stateless
