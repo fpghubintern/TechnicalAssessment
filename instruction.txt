@@ -1,10 +1,22 @@
+TECHNICAL ASSESSMENT
+
 Hi, Mr. Ahmed Mohammed and welcome to your project task for today, Tuesday 17th March, 2020 
 
 A Technical assessment has been prepared for you, it comprises of a few questions.
 
-You will be required to answers to the questions and also write code to illustrate your answers.
+INTRUCTIONS :
 
-Make sure to pull from the git hub repository. 
+1. Kindly check the assessment.txt file in the Assessment folder.
 
+2. You will be required to provide answers to the questions in :
+
+   a. text format 
+
+   b. write code to illustrate your answers.
+
+3. There are 6 questions in all and 6 folders have been created in the answer folder. Make sure to put the answers
+   in their respective folder.
+
+Make sure to push to the git hub repository: git@github.com:fpghubintern/TechnicalAssessment.git
 
 Good Luck.

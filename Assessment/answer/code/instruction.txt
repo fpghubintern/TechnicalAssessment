@@ -1,0 +1,7 @@
+
+1. create a react app with name technicalassessmentcode in this directory.
+
+2. write all your code in the react directory. 
+
+
+Good luck.

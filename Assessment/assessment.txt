@@ -14,6 +14,6 @@ REACT ASSESSMENT
 
 GIT
 
-1. How do you create a git repository locally ? 
+5. How do you create a git repository locally ? 
 
-2. How do you push your locally created git repository to GITHUB 
+6. How do you push your locally created git repository to GITHUB 
